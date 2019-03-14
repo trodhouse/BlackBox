@@ -1,2 +1,0 @@
-# BlackBox
-Created with CodeSandbox
